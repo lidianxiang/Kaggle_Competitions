@@ -1,2 +1,3 @@
-kaggle for titanic
-![](https://www.google.com/imgres?imgurl=https%3A%2F%2Fpic2.zhimg.com%2Fv2-1ea7040c89fa12ae74db2e4a605c5c12_b.jpg&imgrefurl=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F32167169&docid=ZBDo-fnDDhl6MM&tbnid=r8txY34xZf_EZM%3A&vet=10ahUKEwjXnPmO-rDkAhXJdd4KHbJ9CBgQMwhOKAAwAA..i&w=550&h=364&safe=strict&bih=938&biw=1680&q=%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E7%94%B5%E5%BD%B1&ved=0ahUKEwjXnPmO-rDkAhXJdd4KHbJ9CBgQMwhOKAAwAA&iact=mrc&uact=8)
+## Titanic: Machine Learning from Disaster
+
+![](https://github.com/lidianxiang/Kaggle_Competitions/blob/master/Titanic/%E4%B8%8B%E8%BD%BD.jpeg)
